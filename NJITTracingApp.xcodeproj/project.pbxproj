@@ -24,8 +24,6 @@
 		13EDE44F1C988102004501A0 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 13EDE4471C988102004501A0 /* settings.png */; };
 		13EDE4501C988102004501A0 /* target.png in Resources */ = {isa = PBXBuildFile; fileRef = 13EDE4481C988102004501A0 /* target.png */; };
 		6AD6219E1C93399E003A8F33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD6219D1C93399E003A8F33 /* AppDelegate.swift */; };
-		6AD621A01C93399E003A8F33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD6219F1C93399E003A8F33 /* ViewController.swift */; };
-		6AD621A31C93399E003A8F33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AD621A11C93399E003A8F33 /* Main.storyboard */; };
 		6AD621A51C93399E003A8F33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AD621A41C93399E003A8F33 /* Assets.xcassets */; };
 		6AD621A81C93399E003A8F33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AD621A61C93399E003A8F33 /* LaunchScreen.storyboard */; };
 		6AD621B31C93399F003A8F33 /* NJITTracingAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD621B21C93399F003A8F33 /* NJITTracingAppTests.swift */; };
@@ -70,8 +68,6 @@
 		13EDE4481C988102004501A0 /* target.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = target.png; sourceTree = "<group>"; };
 		6AD6219A1C93399E003A8F33 /* NJITTracingApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NJITTracingApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AD6219D1C93399E003A8F33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6AD6219F1C93399E003A8F33 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		6AD621A21C93399E003A8F33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6AD621A41C93399E003A8F33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AD621A71C93399E003A8F33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6AD621A91C93399F003A8F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -148,7 +144,6 @@
 			children = (
 				13EDE4401C9880CF004501A0 /* Main.storyboard */,
 				6AD6219D1C93399E003A8F33 /* AppDelegate.swift */,
-				6AD6219F1C93399E003A8F33 /* ViewController.swift */,
 				13EDE42E1C987F9A004501A0 /* SWRevealViewController.h */,
 				13EDE42F1C987F9A004501A0 /* SWRevealViewController.m */,
 				13EDE4311C987F9A004501A0 /* BackTableViewController.swift */,
@@ -158,7 +153,6 @@
 				13EDE4351C987F9A004501A0 /* MapViewController.swift */,
 				13EDE4361C987F9A004501A0 /* LoginViewController.swift */,
 				13EDE4371C987F9A004501A0 /* RegisterPageViewController.swift */,
-				6AD621A11C93399E003A8F33 /* Main.storyboard */,
 				6AD621A41C93399E003A8F33 /* Assets.xcassets */,
 				6AD621A61C93399E003A8F33 /* LaunchScreen.storyboard */,
 				6AD621A91C93399F003A8F33 /* Info.plist */,
@@ -301,7 +295,6 @@
 				13EDE4501C988102004501A0 /* target.png in Resources */,
 				13EDE44C1C988102004501A0 /* interface-3.png in Resources */,
 				13EDE44F1C988102004501A0 /* settings.png in Resources */,
-				6AD621A31C93399E003A8F33 /* Main.storyboard in Resources */,
 				13EDE4411C9880CF004501A0 /* Main.storyboard in Resources */,
 				13EDE44A1C988102004501A0 /* black.png in Resources */,
 			);
@@ -333,7 +326,6 @@
 				13EDE43C1C987F9A004501A0 /* TrackingHistoryViewController.swift in Sources */,
 				13EDE4391C987F9A004501A0 /* BackTableViewController.swift in Sources */,
 				13EDE43F1C987F9A004501A0 /* RegisterPageViewController.swift in Sources */,
-				6AD621A01C93399E003A8F33 /* ViewController.swift in Sources */,
 				6AD6219E1C93399E003A8F33 /* AppDelegate.swift in Sources */,
 				13EDE43A1C987F9A004501A0 /* SettingsViewController.swift in Sources */,
 				13EDE4381C987F9A004501A0 /* SWRevealViewController.m in Sources */,
@@ -373,14 +365,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		6AD621A11C93399E003A8F33 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6AD621A21C93399E003A8F33 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		6AD621A61C93399E003A8F33 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
