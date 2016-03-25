@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8D5C9062-5568-4713-827F-A691F893DF4E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NJITTracingApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>200FD688A2E84372B7A450A1E8385455F565BC5C</key>
+		<string>https://github.com/alifkar/NJITTracingApp2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NJITTracingApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>200FD688A2E84372B7A450A1E8385455F565BC5C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alifkar/NJITTracingApp2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>200FD688A2E84372B7A450A1E8385455F565BC5C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>200FD688A2E84372B7A450A1E8385455F565BC5C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NJITTracingApp-Team</string>
+		</dict>
+	</array>
+</dict>
+</plist>
