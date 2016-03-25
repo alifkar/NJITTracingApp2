@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NJITTracingApp/ZaazController.swift"
+            timestampString = "480615800.072648"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NJITTracingApp/ZaazController.swift"
+            timestampString = "480615800.849049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ZaazMenu"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NJITTracingApp.ZaazMenu.Zaaz.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "NJITTracingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadis/Documents/NJITTracingApp-Team/NJITTracingApp/ZaazController.swift"
+                  timestampString = "480616252.631728"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NJITTracingApp.ZaazMenu.Zaaz.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "NJITTracingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadis/Documents/NJITTracingApp-Team/NJITTracingApp/ZaazController.swift"
+                  timestampString = "480616252.639974"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NJITTracingApp.ZaazMenu.Zaaz.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "NJITTracingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadis/Documents/NJITTracingApp-Team/NJITTracingApp/ZaazController.swift"
+                  timestampString = "480616252.640169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NJITTracingApp.ZaazMenu.init (NJITTracingApp.ZaazMenu.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; NJITTracingApp.ZaazMenu"
+                  moduleName = "NJITTracingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadis/Documents/NJITTracingApp-Team/NJITTracingApp/ZaazController.swift"
+                  timestampString = "480616252.640366"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NJITTracingApp.ZaazMenu.init (NJITTracingApp.ZaazMenu.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;NJITTracingApp.ZaazMenu&gt;"
+                  moduleName = "NJITTracingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadis/Documents/NJITTracingApp-Team/NJITTracingApp/ZaazController.swift"
+                  timestampString = "480616252.640518"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
