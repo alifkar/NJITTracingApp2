@@ -40,10 +40,9 @@
 		6AD6219D1C93399E003A8F33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6AD621A41C93399E003A8F33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AD621A71C93399E003A8F33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		6AD621A91C93399F003A8F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6AD621AE1C93399F003A8F33 /* NJITTracingAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NJITTracingAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AD621B21C93399F003A8F33 /* NJITTracingAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NJITTracingAppTests.swift; sourceTree = "<group>"; };
-		6AD621B41C93399F003A8F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AD621B41C93399F003A8F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = NJITTracingAppTests/Info.plist; sourceTree = SOURCE_ROOT; };
 		6AD621B91C93399F003A8F33 /* NJITTracingAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NJITTracingAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AD621BD1C93399F003A8F33 /* NJITTracingAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NJITTracingAppUITests.swift; sourceTree = "<group>"; };
 		6AD621BF1C93399F003A8F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -113,12 +112,12 @@
 		6AD6219C1C93399E003A8F33 /* NJITTracingApp */ = {
 			isa = PBXGroup;
 			children = (
+				6AD621B41C93399F003A8F33 /* Info.plist */,
 				2EAB87D51CA58EFB0009442A /* Controllers */,
 				13EDE4401C9880CF004501A0 /* Main.storyboard */,
 				6AD6219D1C93399E003A8F33 /* AppDelegate.swift */,
 				6AD621A41C93399E003A8F33 /* Assets.xcassets */,
 				6AD621A61C93399E003A8F33 /* LaunchScreen.storyboard */,
-				6AD621A91C93399F003A8F33 /* Info.plist */,
 				13EDE4491C988102004501A0 /* Icons */,
 			);
 			path = NJITTracingApp;
@@ -128,7 +127,6 @@
 			isa = PBXGroup;
 			children = (
 				6AD621B21C93399F003A8F33 /* NJITTracingAppTests.swift */,
-				6AD621B41C93399F003A8F33 /* Info.plist */,
 			);
 			path = NJITTracingAppTests;
 			sourceTree = "<group>";
